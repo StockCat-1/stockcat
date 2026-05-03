@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d1d2ffcde48c844eab5476d2fc90b040
+guid: d6c48e9a7f9876745b66c2d2a5b05b20
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8439838076471396716
-    second: ChatGPT_Image_Apr_23__2026_at_08_30_39_PM-removebg-preview_0
+      213: 5242054989868817152
+    second: wealth_button_bottom_bar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,24 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT_Image_Apr_23__2026_at_08_30_39_PM-removebg-preview_0
+      name: wealth_button_bottom_bar_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4963b125cfbafda80800000000000000
-      internalID: -8439838076471396716
+      spriteID: 00bd13c5d358fb840800000000000000
+      internalID: 5242054989868817152
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT_Image_Apr_23__2026_at_08_30_39_PM-removebg-preview_0: -8439838076471396716
+      wealth_button_bottom_bar_0: 5242054989868817152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

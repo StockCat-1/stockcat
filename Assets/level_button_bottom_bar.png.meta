@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 02b22d3940afd42978452ebe5ab67b1c
+guid: 7e12f01319ebf594b862ddb5e40081a1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3989921935482334413
-    second: ChatGPT_Image_Apr_25__2026_at_02_52_07_AM-removebg-preview_0
+      213: -1429209686267203566
+    second: level_button_bottom_bar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,24 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT_Image_Apr_25__2026_at_02_52_07_AM-removebg-preview_0
+      name: level_button_bottom_bar_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3335902a323f0a8c0800000000000000
-      internalID: -3989921935482334413
+      spriteID: 210fe74dc5d6a2ce0800000000000000
+      internalID: -1429209686267203566
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT_Image_Apr_25__2026_at_02_52_07_AM-removebg-preview_0: -3989921935482334413
+      level_button_bottom_bar_0: -1429209686267203566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

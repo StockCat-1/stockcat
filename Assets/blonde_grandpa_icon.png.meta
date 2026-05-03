@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aeb36ff0d5a2548718b9193d0d711620
+guid: 01823288d1ae8ed458e567329053ee1b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2870195987334292724
-    second: ChatGPT_Image_Apr_23__2026_at_07_53_11_PM-removebg-preview_0
+      213: 7916737558517268252
+    second: blonde_grandpa_icon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,24 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT_Image_Apr_23__2026_at_07_53_11_PM-removebg-preview_0
+      name: blonde_grandpa_icon_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f4efc42b0cf4d720800000000000000
-      internalID: 2870195987334292724
+      spriteID: c1f3a636dd6eddd60800000000000000
+      internalID: 7916737558517268252
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT_Image_Apr_23__2026_at_07_53_11_PM-removebg-preview_0: 2870195987334292724
+      blonde_grandpa_icon_0: 7916737558517268252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

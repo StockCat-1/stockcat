@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8e9f93ad66b88fa478d63d1dfd260597
+guid: da0a2f6f3525e37468f0152e043dad34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -602517336955575756
-    second: Gemini_Generated_Image_dgcun0dgcun0dgcu-removebg-preview (1)_0
+      213: 6659083759070060545
+    second: gulsum_grandma_icon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,24 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_dgcun0dgcun0dgcu-removebg-preview (1)_0
+      name: gulsum_grandma_icon_0
       rect:
         serializedVersion: 2
         x: 10
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 432afbf9cad63a7f0800000000000000
-      internalID: -602517336955575756
+      spriteID: 100a1f4c561d96c50800000000000000
+      internalID: 6659083759070060545
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gemini_Generated_Image_dgcun0dgcun0dgcu-removebg-preview (1)_0: -602517336955575756
+      gulsum_grandma_icon_0: 6659083759070060545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

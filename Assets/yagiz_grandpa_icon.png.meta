@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 60d56412c2d9e4867b7501679a163177
+guid: 568dd054d7e83184795a4920bc01ea6c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4707374462493601609
-    second: ChatGPT_Image_Apr_25__2026_at_02_53_57_AM-removebg-preview_0
+      213: -70328091559995330
+    second: yagiz_grandpa_icon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,24 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT_Image_Apr_25__2026_at_02_53_57_AM-removebg-preview_0
+      name: yagiz_grandpa_icon_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b0d25afddb0caeb0800000000000000
-      internalID: -4707374462493601609
+      spriteID: e38d5dc29f4260ff0800000000000000
+      internalID: -70328091559995330
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT_Image_Apr_25__2026_at_02_53_57_AM-removebg-preview_0: -4707374462493601609
+      yagiz_grandpa_icon_0: -70328091559995330
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
